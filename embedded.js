@@ -1,4 +1,4 @@
-// The implementation of reading media stream data is based on:
+// Implementation of reading media stream data is based on answer from kaiido:
 // https://stackoverflow.com/questions/32699721/javascript-extract-video-frames-reliably
 
 (() => {
