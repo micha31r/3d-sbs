@@ -1,3 +1,6 @@
+// The implementation of reading media stream data is based on:
+// https://stackoverflow.com/questions/32699721/javascript-extract-video-frames-reliably
+
 (() => {
 	const video = document.querySelector('video');
 	const background = document.createElement('div');
